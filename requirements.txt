@@ -1,0 +1,5 @@
+pandas
+# pandas-profiling
+ydata-profiling
+# pydantic==1.10.11
+ipywidgets
