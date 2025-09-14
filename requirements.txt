@@ -6,3 +6,5 @@ ipywidgets
 sentence-transformers 
 scikit-learn 
 torch
+xgboost
+imbalanced-learn
