@@ -8,3 +8,6 @@ scikit-learn
 torch
 xgboost
 imbalanced-learn
+openpyxl
+langchain
+langchain-google-genai
