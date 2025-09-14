@@ -3,3 +3,6 @@ pandas
 ydata-profiling
 # pydantic==1.10.11
 ipywidgets
+sentence-transformers 
+scikit-learn 
+torch
